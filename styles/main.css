@@ -1515,7 +1515,7 @@ fieldset[disabled]
 }
 
 .btn-primary {
-  background-color: #378C3F;
+  background-color: #03A9F4;
   color: #FFFFFF;
 }
 
@@ -2598,16 +2598,16 @@ textarea.form-control:focus, textarea.form-control:active {
 }
 
 .progress-container.progress-primary .progress {
-  background: rgba(55, 140, 63, 0.4);
+  background: #81D4FA;
 }
 
 .progress-container.progress-primary .progress-bar {
-  background: #378C3F;
+  background: #03A9F4;
 }
 
 .progress-container.progress-primary .progress-value,
 .progress-container.progress-primary .progress-badge {
-  color: #378C3F;
+  color: #03A9F4;
 }
 
 .progress-container.progress-info .progress {
@@ -3402,7 +3402,7 @@ body {
 }
 
 .bg-primary {
-  background-color: #378C3F !important;
+  background-color: #03A9F4 !important;
 }
 
 .bg-info {
@@ -5180,7 +5180,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .page-header.page-header-small {
-  height: 60vh;
+  height: 70vh;
   max-height: 440px;
 }
 
@@ -7096,7 +7096,7 @@ Created using IcoMoon - icomoon.io
 
 .cc-profile-image a:before {
   content: "";
-  border: 15px solid rgba(55, 140, 63, 0.6);
+  border: 15px solid #81D4FA;
   border-radius: 50%;
   height: 180px;
   width: 180px;
